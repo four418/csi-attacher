@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-attacher:v3.4.0
+FROM longhornio/csi-attacher:v4.5.1
